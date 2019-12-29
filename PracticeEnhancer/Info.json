@@ -1,0 +1,7 @@
+﻿{
+  "Id": "PracticeEnhancer",
+  "DisplayName": "修习助手，拯救食指",
+  "Version": "1.0.0",
+  "AssemblyName": "PracticeEnhancer.dll",
+  "EntryMethod": "PracticeEnhancer.Main.Load"
+}
